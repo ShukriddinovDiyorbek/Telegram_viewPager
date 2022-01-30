@@ -30,7 +30,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-                android:text="Cloud-Based"
+            android:text="@string/cloud_based"
             android:textColor="@color/black"
             android:textSize="25sp"
             android:textStyle="bold" />
@@ -39,14 +39,14 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="10dp"
-            android:text="Telegram lets you access your"
+            android:text="@string/cloud_info"
             android:textColor="@color/black"
             />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="messages from multiple devices"
+            android:text="@string/cloud_info2"
             android:textColor="@color/black"
             />
     </LinearLayout>

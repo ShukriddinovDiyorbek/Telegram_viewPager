@@ -4,4 +4,20 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="telegram_info">The world\'s fastest messaging app.</string>
     <string name="telegram_info2">It\'s free and secure.</string>
+    <string name="telegram_x">Telegram X</string>
+    <string name="secure_info2">safe from hackjer attacks.</string>
+    <string name="secure_info">Telegram keeps your messages</string>
+    <string name="secure">Secure</string>
+    <string name="powerful_info2">The size of your media and chats.</string>
+    <string name="powerful_info">Telegram has no limits on</string>
+    <string name="powerful">Powerful</string>
+    <string name="free_info2">No subscription fees.</string>
+    <string name="free_info">Telegram free forever. No ads.</string>
+    <string name="free">Free</string>
+    <string name="fast_info2">faster than any other application.</string>
+    <string name="fast_info">Telegram tellivers messages</string>
+    <string name="fast">Fast</string>
+    <string name="cloud_info2">messages from multiple devices.</string>
+    <string name="cloud_info">Telegram lets you access your</string>
+    <string name="cloud_based">Cloud-Based</string>
 </resources>
